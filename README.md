@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jagerzhang&show_icons=true&theme=vue" alt="jager's github stats" />
 
 - 🌈 I’m currently working at Tencent
-- 🐳 My current field of work is Ops/SRE/DevOps/CI/CD
+- 🐳 My current field of work is SRE
 - 🤔 My Blog is [https://zhang.ge/](https://zhang.ge/) 
 - 💬 Welcomed to ask me about `Linux/Windows Ops/SRE/DevOps/CI/CD/Nginx/WordPress/..`
 - 📫 How to reach me: [email: im@zhang.ge](im@zhang.ge)
