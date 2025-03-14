@@ -5,7 +5,7 @@
 - 🐳 My current field of work is SRE
 - 🤔 My Blog is [https://zhang.ge/](https://zhang.ge/) 
 - 💬 Welcomed to ask me about `Linux/Windows Ops/SRE/DevOps/CI/CD/Nginx/WordPress/..`
-- 📫 How to reach me: [email: im@zhang.ge](im@zhang.ge)
+- 📫 How to reach me: [email: im#zhang.ge](im#zhang.ge)
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=jagerzhang&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
