@@ -7,11 +7,7 @@
 - 💬 Welcomed to ask me about `Linux/Windows Ops/SRE/DevOps/CI/CD/Nginx/WordPress/..`
 - 📫 How to reach me: [email: im#zhang.ge](im#zhang.ge)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjagerzhang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <img src="https://github-profile-trophy.vercel.app/?username=jagerzhang&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
-
-
 
 <!--
 **jagerzhang/jagerzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
