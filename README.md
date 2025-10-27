@@ -1,13 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagerzhang&show_icons=true&theme=vue" alt="jager's github stats" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=jagerzhang&theme=vue" alt="jager's github stats" />
 
 - 🌈 I’m currently working at Tencent
 - 🐳 My current field of work is SRE
 - 🤔 My Blog is [https://zhang.ge/](https://zhang.ge/) 
 - 💬 Welcomed to ask me about `Linux/Windows Ops/SRE/DevOps/CI/CD/Nginx/WordPress/..`
 - 📫 How to reach me: [email: im#zhang.ge](im#zhang.ge)
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagerzhang&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 <!--
 **jagerzhang/jagerzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
